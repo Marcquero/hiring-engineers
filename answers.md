@@ -351,4 +351,5 @@ Datadog has been used in a lot of creative ways in the past. We’ve written som
 Is there anything creative you would use Datadog for?
 
 Datadog has been created to monitor IT Infrastructures. Datadog has the potential to diversify monitored field. There is an opportunity in top performance sport field.
-Datadog can also be used to monitor data from connected objects in order to help athletes to monitor and imporve their performances. The dedicated metrics can be created with the help of specialists of this field.
+Datadog can also be used to monitor data from connected objects in order to help athletes to monitor and imporve their performances.
+The dedicated metrics can be created with the help of specialists of this field.
